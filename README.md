@@ -29,3 +29,5 @@ I'm always happy to connect, discuss projects, or explore opportunities.
 ---
 
 *Thanks for stopping by! ⭐*
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SunriseWasTaken.SunriseWasTaken)](https://github.com/SunriseWasTaken)
