@@ -1,11 +1,5 @@
 # 👋 Hey, I'm Rafi!
 
-**Computer Science Graduate · AI · Software Development**
-
-Exploring technology, building projects, and turning ideas into things people can use.
-
-## 🧭 About Me
-
 I'm a Computer Science graduate from Goldsmiths, University of London, interested in AI, software, and the ways technology can solve real-world problems.
 
 I enjoy learning new technologies, experimenting with different tools, and developing projects that combine technical functionality with thoughtful design.
