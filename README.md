@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="ascii-rest-big-text.gif" width="800">
+  <img src="ascii-rest-big-text.gif" width="100%">
 </p>
 
-# 👋 Hey, I'm Rafi!
+# 👋 I'm Rafi!
 
 I'm a Computer Science graduate from Goldsmiths, University of London, interested in AI, software, and the ways technology can solve real problems and crises.
 
