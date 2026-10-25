@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ascii-rest-big-text.gif" width="800">
+</p>
+
 # 👋 Hey, I'm Rafi!
 
 I'm a Computer Science graduate from Goldsmiths, University of London, interested in AI, software, and the ways technology can solve real problems and crises.
@@ -16,7 +20,7 @@ Check out my repositories to see what I've been working on!
 
 I'm always happy to connect, discuss projects, or explore opportunities.
 
-- **LinkedIn:** [Connect with me](www.linkedin.com/in/tanvirhossainp)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/tanvirhossainp)
 - **Email:** [Get in touch](thplondon)
 <!-- - **Portfolio:** [Visit my website]()-->
 
