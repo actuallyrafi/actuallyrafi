@@ -21,11 +21,11 @@ Check out my repositories to see what I've been working on!
 I'm always happy to connect, discuss projects, or explore opportunities.
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/tanvirhossainp)
-- **Email:** [Get in touch](thplondon)
+- **Email:** [Get in touch](thplondon@gmail.com)
 <!-- - **Portfolio:** [Visit my website]()-->
 
 ---
 
 *Thanks for stopping by! ⭐*
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SunriseWasTaken.SunriseWasTaken)](https://github.com/SunriseWasTaken)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=actuallyrafi.actuallyrafi)](https://github.com/actuallyrafi)
